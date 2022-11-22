@@ -19,10 +19,7 @@
   </dependencies>
   
   <build>
-<<<<<<< HEAD
-    <finalName>irctc</finalName>
-=======
-    <finalName>irctc_app</finalName>
->>>>>>> ab1052408f965129739fad1e552aa3ae8e9e09c4
+    <finalName>irctc_application</finalName>
+
   </build>
 </project>
