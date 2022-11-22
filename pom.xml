@@ -20,6 +20,9 @@
   
   <build>
     <finalName>irctc_app</finalName>
+<<<<<<< HEAD
 
+=======
+>>>>>>> f2f274d7547f20a79aa12ba78a4a81e431898cee
   </build>
 </project>
